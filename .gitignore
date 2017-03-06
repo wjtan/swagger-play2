@@ -6,6 +6,7 @@ ass
 *.iml
 
 # sbt specific
+bin/*
 dist/*
 target/
 lib_managed/
